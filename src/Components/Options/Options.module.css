@@ -1,0 +1,16 @@
+.button {
+  background-color: lightgreen;
+  font-size: 32px;
+  padding: 10px 20px;
+  color: rgb(1, 80, 53);
+}
+
+.button:hover {
+  border: 2px solid rgb(1, 80, 53);
+}
+
+.buttonContainer {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+}
